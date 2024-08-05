@@ -12,6 +12,7 @@ function getInputValue() {
 	}
 	else{
 		displayElement.textContent = 'Fuck off';
+		documentImage.style.display = 'none';
 	}
 	// Display the value in the <p> element with ID 'display'
 	// displayElement.textContent = 'Input value: ' + inputValue;
