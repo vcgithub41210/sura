@@ -1,6 +1,12 @@
 body{
 	background-color: green;
 }
+#myInput{
+  width:25rem;
+  height:2rem;
+  background-color:white;
+  border:none;
+}
 #myImage{
 display: none;
 animation: App-logo-spin infinite 5s linear;
