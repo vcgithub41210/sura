@@ -1,0 +1,16 @@
+differentiate primary candidate and super key
+different kinds of attributes
+different kinds of relationship with examples
+what do you mean by total and partial participation
+three level of databases
+difference  between schema and instance
+differentiate weak enitity and strong entity
+referential integrity constraint 
+entity integrity constraint
+self referencing foreign key
+how can we convert an er model to a relational model (all the 7 steps for conversion)
+aggregation,role name
+acid properties 
+different kinds of schedules (recovarable, non-recoverable, cascadeless, strict)
+serializability (conflict and view)
+sql commands and shit oogabooga:
