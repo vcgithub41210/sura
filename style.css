@@ -19,3 +19,6 @@ animation: App-logo-spin infinite 5s linear;
 		transform: rotate(720deg);
 	}
 }
+video{
+	height:100%;
+	width:100%;
